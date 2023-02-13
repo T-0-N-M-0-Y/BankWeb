@@ -1,14 +1,11 @@
 /* 
 1. add event handler with the withdraw button
-2. get the withdraw amount from the withdraw input field
-2-5. also make sure to convert the input into a number by using parseFloat
-3. Get previous withdraw total
-4. calculate total withdraw amount 
-4-5. set total withdraw amount
-5. get the previous balance total
-6. calculate new balance total
-6-5: set the new balance total
-7. clear the input field
+2. get the withdraw amount
+3. clear the withdraw input field
+4. get previous withdraw total
+5. calculate total Withdraw amount and set it to the withdraw total element
+6. get previous balance
+7. calculate new balance and set it to the balance total element
 */
 
 // How Withdraw Button Works
