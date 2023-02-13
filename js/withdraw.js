@@ -19,7 +19,7 @@ document.getElementById('btn-withdraw').addEventListener('click', function () {
 
     withdrawInput.value = '';
 
-    if (isNaN(newWithdrawAmount)) {
+    if (isNaN(newWithdraw)) {
         alert('Please provide a valid number');
         return;
     }
